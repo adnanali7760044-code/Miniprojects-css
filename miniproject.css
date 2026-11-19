@@ -19,7 +19,6 @@
     line-height: 60px;
     cursor: pointer;
     transition: all 0.4s linear;
-
 }
 
 .sidebar_menu{
@@ -66,7 +65,7 @@
 }
 
 .sidebar_menu .menu li{
-    margin-top: 6px;
+    margin-top: 16px;
     padding: 14px 20px;
 }
 
